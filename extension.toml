@@ -1,0 +1,7 @@
+id = "everforest-blurred"
+name = "Everforest Blurred"
+version = "0.1.0"
+schema_version = 1
+authors = ["Sainnhe", "Thomas Alban", "Daniel Illescas Rromero"]
+description = "Everforest Dark Medium with blurred backgrounds and high contrast."
+repository = "https://github.com/illescasDaniel/everforest-blurred-zed"
